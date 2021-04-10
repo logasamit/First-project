@@ -21,7 +21,4 @@
     : Displaying text    
     echo INFO.txt Exported!
 
-    : Open the newly exported file in notepad    
-    notepad.exe INFO.txt    
-
-    : STOP CMD
+       : STOP CMD
